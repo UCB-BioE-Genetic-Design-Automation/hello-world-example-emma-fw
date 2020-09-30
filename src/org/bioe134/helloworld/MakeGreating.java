@@ -20,8 +20,8 @@ public class MakeGreating {
     
     public static void main(String[] args) throws Exception {
         //Create some arguments
-        Person betty = new Person("Betty");
-        Person bill = new Person("Bill");
+        Person betty = new Person("Emma");
+        Person bill = new Person("Charles");
         Person bai = new Person("Bai");
         
         //Create the Function and initiate it
